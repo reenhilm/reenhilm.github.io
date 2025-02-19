@@ -1,0 +1,42 @@
+[
+    {
+        "id": "90f8d1ff-7684-4e8e-9350-596499cdcfa1",
+        "categories": [
+            {
+                "id": "c252d517-aadd-4e97-b24d-051cee0b3471",
+                "name": "Groceries"
+            },
+            {
+                "id": "c252d517-aadd-4e97-b24d-051cee0b3471",
+                "name": "Household"
+            }
+        ],
+        "description": "Weekly grocery shopping receipt from the local supermarket.",
+        "image": "https://example.com/receiptgrocery.jpg",
+        "price": 45.75,
+        "pricetotal": 45.75,
+        "title": "Supermarket Receipt",
+        "uploader": {
+            "id": "9df88f74-81d6-4ead-bd78-0a377a30cd23",
+            "fullname": "Christian Rönnholm"
+        }
+    },
+    {
+        "id": "83876d44-1fe2-498c-bb03-6ee4d4d12567",
+        "categories": [
+            {
+                "id": "c252d517-aadd-4e97-b24d-051cee0b3471",
+                "name": "Household"
+            }
+        ],
+        "description": "I bought a hammer.",
+        "image": "https://example.com/receipthammer.jpg",
+        "price": 10.25,
+        "pricetotal": 10.25,
+        "title": "Clas Ohlson Receipt",
+        "uploader": {
+            "id": "9df88f74-81d6-4ead-bd78-0a377a30cd23",
+            "fullname": "Christian Rönnholm"
+        }
+    }
+]
